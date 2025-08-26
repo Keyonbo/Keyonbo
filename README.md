@@ -17,15 +17,27 @@ A passionate BI Developer from Prague.
   <!-- BI & Analytics -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://static.wikia.nocookie.net/logopedia/images/1/1f/Dbt-logo.png" alt="dbt" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  
+  <!-- dbt -->
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
+  
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  
+  <!-- BigQuery -->
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40" height="40"/>
+  
+  <!-- Snowflake -->
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
+  
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <!-- DAX нет официальной иконки, можно оставить текстом -->
-  <img src="https://img.shields.io/badge/DAX-%230A66C2.svg?style=for-the-badge&logoColor=white" alt="DAX"/>
+  
+  <!-- DAX -->
+  <img src="https://img.shields.io/badge/DAX-blue?style=flat&logo=none" alt="DAX" height="40"/>
 </p>
+
 
 ---
 
