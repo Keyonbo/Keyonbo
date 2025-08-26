@@ -20,7 +20,8 @@ A passionate BI Developer from Prague.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   
   <!-- dbt -->
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-styleguide/main/images/dbt-logo.svg" alt="dbt" width="40" height="40"/>
+
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
