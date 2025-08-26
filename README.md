@@ -20,7 +20,8 @@ A passionate BI Developer from Prague.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   
   <!-- dbt -->
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt-styleguide/main/images/dbt-logo.svg" alt="dbt" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt"/>
+
 
   
   <!-- Git -->
