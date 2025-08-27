@@ -12,8 +12,8 @@ Hardworking and enthusiastic person combining finance and IT knowledge in analys
 ---
 
 ## 🎓 Education
-University of Finance and Administration, Prague
-Master's Degree in Financial Informatics and Blockchain
+- University of Finance and Administration, Prague
+- Master's Degree in Financial Informatics and Blockchain
 
 ---
 
