@@ -49,7 +49,7 @@ Hardworking and enthusiastic person combining finance and IT knowledge in analys
 ---
 
 ## 🌐 Project Links
-- 🔗 [Smart Contract Web page](https://keyonbo.github.io/Smart-Contract-project-vol.1/); [Repo](https://github.com/Keyonbo/Smart-Contract-project-vol.1)
+- 🔗 [Smart Contract Project based ob Blockchain](https://github.com/Keyonbo/Smart-Contract-project-vol.1); [WEB Page](https://keyonbo.github.io/Smart-Contract-project-vol.1/)
 - 🔗 [Consolidated Weightened rating for product from multiple sources](https://github.com/Keyonbo/reviews_analysis)
 - 🔗 [Three Dimensional Vectoral Space analysis for business metrics](https://github.com/Keyonbo/Vectoral-Analysis)
 - 🔗 [dbt & Snowflake project based on analysis of AirBNB data](https://github.com/Keyonbo/dbt)
